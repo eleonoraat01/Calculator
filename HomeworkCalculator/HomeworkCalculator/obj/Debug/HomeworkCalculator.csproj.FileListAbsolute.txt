@@ -1,0 +1,10 @@
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\bin\Debug\HomeworkCalculator.exe.config
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\bin\Debug\HomeworkCalculator.exe
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\bin\Debug\HomeworkCalculator.pdb
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.csprojAssemblyReference.cache
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.Form1.resources
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.Properties.Resources.resources
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.csproj.GenerateResource.cache
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.exe
+C:\Users\jivko\source\repos\HomeworkCalculator\HomeworkCalculator\obj\Debug\HomeworkCalculator.pdb
